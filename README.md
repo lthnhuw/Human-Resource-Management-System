@@ -1,29 +1,33 @@
 # Human-Resource-Management-System  
 ## 1. Project Overview  
-- <b> Objective: </b> Design and model a Human Resource Management System to support project management, performance evaluation, and workforce administration.
-- <b> Problem: </b> Manual HR processes caused inefficiencies in project monitoring, employee evaluation, and resource allocation.
-- <b> Stakeholders: </b> Employees, Project Managers, HR staff, and Director.
-
+- <b> Objective: </b> Design a Human Resource Management System to digitalize employee, project, and performance evaluation processes.
+- <b> Problem: </b> Manual HR practices caused inefficiencies in project monitoring, lack of transparency in evaluations, and difficulty managing employee data.
+- <b> Stakeholders: </b> Employees, Project Managers, HR Staff, and Directors.
 ## 2. Business Needs & Goals  
-- Provide a clear framework for managing employees, projects, and evaluations.
-- Enable project managers to assign tasks, monitor progress, and evaluate team performance.
-- Support HR staff in maintaining accurate employee records and training plans.
-- Give management tools for decision-making through performance reports.
+- Provide project managers with tools for task assignment, tracking, and performance evaluation.
+- Support HR staff in maintaining employee records and planning training programs.
+- Enhance management decision-making with accurate reports and performance data.
 
 ## 3. Requirement Analysis  
-- <b> Functional Requirements (focus – Project Manager role): </b>
-  - Login and access project-related features.
-  - Plan and assign tasks to employees.
-  - Monitor project progress and adjust plans.
-  - Evaluate performance of individual employees and teams.
-- <b> Non-Functional Requirements: </b>
-  -  Structured data models for scalability.
-  -  Secure access and role-based permissions.
-
+- <b> Functional Requirements (focus – Project Manager role): </b> Login, task assignment, project monitoring, employee evaluation, training participation, reporting.
+- <b> Non-Functional Requirements: </b> Scalable data models, secure access, role-based permissions.
 ## 4. Business Analysis Techniques  
-- <b> Use Case Diagram:</b> Modeled Project Manager interactions (planning, monitoring, evaluation).
-![ClassDia](https://github.com/lthnhuw/Human-Resource-Management-System/blob/main/UseCaseDia.png)
-- <b> Class Diagram: </b> Designed main entities and relationships (Employees, Projects, Tasks, Evaluations).
-![ClassDia](https://github.com/lthnhuw/Human-Resource-Management-System/blob/main/ClassDia.png)
-- <b> Logical Data Model (LDM): </b> Defined data structure for HR processes.
-- <b> Sequence Diagram: </b> Described workflow of “Performance Evaluation.”
+- <b> Use Case Diagrams:</b> Modeled interactions, especially for the Project Manager actor.
+- <b> Class Diagram & LDM: </b> Defined entities such as Employee, Project, Task, Evaluation, Training.
+- <b> Sequence Diagram: </b> Detailed the "Performance Evaluation" workflow.
+
+## 5. Key Deliverables
+- Use case documentation for Project Manager.
+- Class Diagram and LDM representing HR entities.
+- Sequence Diagram for performance evaluation process.
+- Project summary and improvement proposals.
+
+## 6. Evaluation & Improvements  
+- <b> Limitations: </b> Limited reporting features, no mobile access, lack of employee self-service.
+- <b> Proposed Enhancements: </b> Mobile interface, advanced reporting, 360-degree feedback integration.
+
+## 7. Skills Applied  
+Requirements Analysis, UML Modeling (Use Case, Class, Sequence), Data Modeling (LDM), Business Process Documentation, Analytical Writing.  
+
+## 8. Reflection  
+Gained hands-on experience in capturing business requirements, creating UML models, and linking business needs with system design. Strengthened ability to propose improvements and communicate insights clearly, key skills for a Business Analyst Intern.

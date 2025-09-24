@@ -22,6 +22,8 @@
 
 ## 4. Business Analysis Techniques  
 - <b> Use Case Diagram:</b> Modeled Project Manager interactions (planning, monitoring, evaluation).
+![ClassDia](https://github.com/lthnhuw/Human-Resource-Management-System/blob/main/UseCaseDia.png)
 - <b> Class Diagram: </b> Designed main entities and relationships (Employees, Projects, Tasks, Evaluations).
+![ClassDia](https://github.com/lthnhuw/Human-Resource-Management-System/blob/main/ClassDia.png)
 - <b> Logical Data Model (LDM): </b> Defined data structure for HR processes.
 - <b> Sequence Diagram: </b> Described workflow of “Performance Evaluation.”
